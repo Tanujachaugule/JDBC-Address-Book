@@ -34,9 +34,4 @@ public class JDBConnection {
         con.close();
         System.out.println("Connection closed.....");
     }
-
-    public double getSalaryFromJDBC(String tanuja) {
-        return 0;
-    }
 }
-
